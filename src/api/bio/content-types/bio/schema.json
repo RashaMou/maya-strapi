@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "bios",
+  "info": {
+    "singularName": "bio",
+    "pluralName": "bios",
+    "displayName": "Bio"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "long_bio": {
+      "type": "richtext",
+      "required": true
+    },
+    "short_bio": {
+      "type": "richtext"
+    }
+  }
+}

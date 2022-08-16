@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "researches",
+  "info": {
+    "singularName": "research",
+    "pluralName": "researches",
+    "displayName": "Research"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Research": {
+      "type": "richtext"
+    }
+  }
+}
